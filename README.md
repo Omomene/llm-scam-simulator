@@ -128,6 +128,7 @@ Dog barks, Doorbell rings, TV is loud
 
 Audio cues play automatically for realism.
 
+![alt text](<Capture d'écran 2026-02-15 233924.png>)
 ---
 
 ## 6. Technical Implementation
