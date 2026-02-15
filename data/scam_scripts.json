@@ -1,0 +1,12 @@
+{
+  "Tech Support": [
+    {"step": 1, "expected": "Ask for computer issue"},
+    {"step": 2, "expected": "Guide to check settings"},
+    {"step": 3, "expected": "Ask for remote access"}
+  ],
+  "Bank Fraud": [
+    {"step": 1, "expected": "Claim suspicious transaction"},
+    {"step": 2, "expected": "Request PIN or password"},
+    {"step": 3, "expected": "Confirm transaction details"}
+  ]
+}
