@@ -1,7 +1,6 @@
 import streamlit as st
 from langchain.memory import ConversationBufferMemory
 
-# Memory must match prompt variable name
 memory = ConversationBufferMemory(
     memory_key="chat_history",
     input_key="input",
