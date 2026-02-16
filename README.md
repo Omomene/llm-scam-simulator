@@ -128,9 +128,10 @@ Dog barks, Doorbell rings, TV is loud
 
 Audio cues play automatically for realism.
 
-![alt text](<scam 1.png>)
-![alt text](Scam2.png)
-![alt text](<Scam 3.png>)
+![alt text](<data/scam 1.png>)
+![alt text](data/Scam2.png)
+![alt text](<data/Scam 3.png>)
+
 ---
 
 ## 6. Technical Implementation
